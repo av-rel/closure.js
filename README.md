@@ -1,0 +1,5 @@
+# Closured
+
+```js
+(()=>{return()=>{return()=>{}}})()()()
+```
